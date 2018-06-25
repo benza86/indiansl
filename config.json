@@ -8,60 +8,33 @@
     "tabs":[
 
 	     {
-        "title":"Doc du jour",
+        "title":"الدوري الهندي الممتاز",
         "provider":"youtube",
         "arguments":[
-          "PLpuTkbiVtmpgbDcjECZy3vydSP5wLWAcD",
-          "playlist"
+          "UCJk-aQ7NZtqYtpcqKDt_vZg",
+          "channel"
 
         ]
      },
 	 {
-        "title":"Capital- EnQ-Exc",
+        "title":"Technical sik",
         "provider":"youtube",
         "arguments":[
-          "UCbXTtVr-7Esg1Z2m1nsGu4Q",
+          "UCSs-SZU1Q2HpWHb3Ld4OAcA",
           "channel"
 
         ]
      },
 
 	    	 {
-        "title":"Chasseurs d'appart",
+        "title":"KBFC FANS",
         "provider":"youtube",
         "arguments":[
-          "UCpzfGUMfZgwX37tXQXJYI_Q",
+          "UCCMhmEhJ7dP_S9QU4dl7wGw",
           "channel"
 
         ]
-     },
- {
-        "title":"Zone Intedite",
-        "provider":"youtube",
-        "arguments":[
-          "UCf4cYs4HpO_OOnpaVe8Xflg",
-          "channel"
-
-        ]
-     },
-	      {
-        "title":"TCF",
-        "provider":"youtube",
-        "arguments":[
-          "UC_4WpPcSfpxsSqA6hNpqJbg",
-          "channel"
-
-        ]
-      },
-	        {
-        "title":"Investigations et Enquêtes",
-        "provider":"youtube",
-        "arguments":[
-          "UC50uCdUubc04xXZz7bqv5ng",
-          "channel"
-
-        ]
-      }
+     }
    
   ]
   }
@@ -69,7 +42,7 @@
   {
     "title":"عن التطبيق",
     "drawable":"",
-    "submenu":"autres",
+    "submenu":"التطبيق",
     "iap":false,
     "tabs":[
       {
