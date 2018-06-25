@@ -1,1 +1,84 @@
 
+[
+  {
+     "title":"الشرح",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+
+	     {
+        "title":"Doc du jour",
+        "provider":"youtube",
+        "arguments":[
+          "PLpuTkbiVtmpgbDcjECZy3vydSP5wLWAcD",
+          "playlist"
+
+        ]
+     },
+	 {
+        "title":"Capital- EnQ-Exc",
+        "provider":"youtube",
+        "arguments":[
+          "UCbXTtVr-7Esg1Z2m1nsGu4Q",
+          "channel"
+
+        ]
+     },
+
+	    	 {
+        "title":"Chasseurs d'appart",
+        "provider":"youtube",
+        "arguments":[
+          "UCpzfGUMfZgwX37tXQXJYI_Q",
+          "channel"
+
+        ]
+     },
+ {
+        "title":"Zone Intedite",
+        "provider":"youtube",
+        "arguments":[
+          "UCf4cYs4HpO_OOnpaVe8Xflg",
+          "channel"
+
+        ]
+     },
+	      {
+        "title":"TCF",
+        "provider":"youtube",
+        "arguments":[
+          "UC_4WpPcSfpxsSqA6hNpqJbg",
+          "channel"
+
+        ]
+      },
+	        {
+        "title":"Investigations et Enquêtes",
+        "provider":"youtube",
+        "arguments":[
+          "UC50uCdUubc04xXZz7bqv5ng",
+          "channel"
+
+        ]
+      }
+   
+  ]
+  }
+  ,
+  {
+    "title":"عن التطبيق",
+    "drawable":"",
+    "submenu":"autres",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.knoozapps.myapp.indiansl.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+]
