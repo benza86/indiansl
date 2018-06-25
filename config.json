@@ -25,6 +25,24 @@
 
         ]
      },
+	     {
+        "title":"Technical sik",
+        "provider":"youtube",
+        "arguments":[
+          "UCmqfX0S3x0I3uwLkPdpX03w",
+          "channel"
+
+        ]
+     },
+	         {
+        "title":"HITC Sport",
+        "provider":"youtube",
+        "arguments":[
+          "UC3UFSVP6ormiRWUg_rmH2zA",
+          "channel"
+
+        ]
+     },
 
 	    	 {
         "title":"KBFC FANS",
