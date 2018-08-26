@@ -57,6 +57,108 @@
   ]
   }
   ,
+	 {
+   "title":"Result",
+    "drawable":"",
+    "submenu":"Schedule-fixtures",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.indiansuperleague.com/schedule-fixtures"
+        ]
+      }
+    ]
+
+  }
+	,
+	 {
+   "title":"Result-PDF",
+    "drawable":"",
+    "submenu":"Schedule-fixtures",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.indiansuperleague.com/static-resources/pdfs/HeroISLFixtures2018-19.pdf"
+        ]
+      }
+    ]
+
+  }
+	,
+		 {
+   "title":"CLUB",
+    "drawable":"",
+    "submenu":"Schedule-fixtures",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.indiansuperleague.com/clubs"
+        ]
+      }
+    ]
+
+  }
+		,
+		 {
+   "title":"Standing",
+    "drawable":"",
+    "submenu":"Schedule-fixtures",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.indiansuperleague.com/standings"
+        ]
+      }
+    ]
+
+  }
+		,
+		 {
+   "title":"Statistics",
+    "drawable":"",
+    "submenu":"Schedule-fixtures",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.indiansuperleague.com/stats"
+        ]
+      }
+    ]
+
+  }
+		,
+		 {
+   "title":"Videos",
+    "drawable":"",
+    "submenu":"Schedule-fixtures",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.indiansuperleague.com/videos"
+        ]
+      }
+    ]
+
+  }
+	,
   {
     "title":"عن التطبيق",
     "drawable":"",
